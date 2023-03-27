@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679892502 source:d:\alexi\documents\busquedaalstar\main.cpp
+	<iostream>
+	<queue>
+	<map>
+	<algorithm>
+	<string>
+	<ctime>
+
